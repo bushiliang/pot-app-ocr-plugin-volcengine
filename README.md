@@ -17,7 +17,7 @@
 - 详见[pot-app-translate-plugin-SiliconFlow](https://github.com/bushiliang/pot-app-translate-plugin-SiliconFlow)
 
 ## 可能遇到的问题
-- 我发现鱼与熊掌不能一起煎，加入Latex的Prompt后当截图识别文字与数学公式时它会忽略文字，所以我上传会上传两种插件
+- 我发现鱼与熊掌不能一起煎，加入Latex的Prompt后当截图识别文字与数学公式时它会忽略文字，所以我会上传两种插件
 ### 带Latex Prompt版本
 - 支持多种外国语言，支持将数学公式转为Latex，但是没办法文字公式一起识别，优点是公式识别严格遵守Latex
 ### 不带Latex Prompt版本
