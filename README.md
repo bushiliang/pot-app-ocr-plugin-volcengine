@@ -2,10 +2,12 @@
 通过火山识图api进行ocr识别，支持多种外国语言，支持将数学公式转为Latex
 
 ## 功能演示
+<div align="center">
 ![屏幕截图 2025-05-19 214528](https://github.com/user-attachments/assets/8de32343-77ff-4514-8634-fef947f6cf5b)
 ![屏幕截图 2025-05-19 214549](https://github.com/user-attachments/assets/07a6b65d-dadd-49aa-8949-74958df1f92a)
 ![屏幕截图 2025-05-19 215755](https://github.com/user-attachments/assets/03774e0b-8c3a-4282-b90e-c58732efa57b)
 ![屏幕截图 2025-05-19 215850](https://github.com/user-attachments/assets/7ba616d1-3099-42b6-93de-c9b460bb70a3)
+</div>
 
 
 
